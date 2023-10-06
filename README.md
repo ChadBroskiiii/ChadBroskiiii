@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Will Felton
 
-#### I'm currently studying computer science in college.
+#### I'm currently puttting the new **forgis** on the **jeep**.
 
-- ⚙️ I use **python** and **python**
+- ⚙️ I use **meth** on a **daily basis**
 - 📫 Reach me: mcdonalds@gmail.com
-- ⚡️ Fun fact: My balls ache
+- ⚡️ Fun fact: My balls were removed
 
 ---
 
