@@ -11,7 +11,7 @@
 
 <p align="left>
     <a href="https://www.google.xom">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>                               <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
     </a>
                                                                                                                                             
 </p>
