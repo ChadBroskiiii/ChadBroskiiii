@@ -2,9 +2,9 @@
 
 #### I'm currently studying computer science in college.
 
-- ⚙️ I use **python** and **python**
+- ⚙️ I use **python** mainly
 - 📫 Reach me: mcdonalds@gmail.com
-- ⚡️ Fun fact: My balls ache
+- ⚡️ Fun fact: "Man who read woman like book, prefer braille" - Confucius
 
 ---
 
