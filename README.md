@@ -4,7 +4,7 @@
 
 - ⚙️ I use **python** mainly
 - 📫 Reach me: mcdonalds@gmail.com
-- ⚡️ Fun fact: "Man who read woman like book, prefer braille" - **Confucius**
+- ⚡️ Fun fact: "Man who put pea in soup very unclean" - **Confucius**
 
 ---
 
