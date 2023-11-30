@@ -4,7 +4,7 @@
 
 - ⚙️ I use **python** mainly
 - 📫 Reach me: williamfelton2006@icloud.com
-- ⚡️ Fun fact: "Man who put pea in soup very unclean" - **Confucius**
+- ⚡️ Fun fact: "Man who keep feet on ground, have trouble putting on pants" - **Confucius**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBroskiiii&theme=tokyonight" alt="mystreak"/>
 
