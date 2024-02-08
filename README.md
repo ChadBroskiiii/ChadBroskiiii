@@ -7,7 +7,7 @@
 - ⚡️ Fun fact: "Man who keep feet on ground, have trouble putting on pants" - **Confucius**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBroskiiii&theme=tokyonight" alt="mystreak"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadBroskiiii&layout=compact&theme=tokyonight" alt="toplangs"/>
 ---
 
 
